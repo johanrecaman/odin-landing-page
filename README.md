@@ -1,4 +1,4 @@
-<h1 align="center">Odin Landing Page💶</h1>
+<h1 align="center">Odin Landing Page</h1>
 
 <p align="center">This is a web project made with HTML and CSS for studying purposes</p>
 <p align="center">This app is on V1.0</p>
